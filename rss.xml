@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ChurchPlanting]]></title>
+        <description><![CDATA[ChurchPlanting]]></description>
+        <link>https://thegrid.ai/churchplanting/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Dec 2015 04:58:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/churchplanting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/215188bc-8711-41c0-b6eb-eaf6a8586a1f.png">]]></description>
+            <link>https://thegrid.ai/churchplanting/bf66b8ad-e554-43d6-b554-7e68ce8c3e1d/index.html</link>
+            <guid isPermaLink="false">bf66b8ad-e554-43d6-b554-7e68ce8c3e1d</guid>
+            <pubDate>Mon, 07 Dec 2015 04:58:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/723b7d7a-8af3-46e2-a106-5045a0c5bd51.jpg">]]></description>
+            <link>https://thegrid.ai/churchplanting/4b54dd87-e0ca-426e-9866-e78179cfb8d5/index.html</link>
+            <guid isPermaLink="false">4b54dd87-e0ca-426e-9866-e78179cfb8d5</guid>
+            <pubDate>Mon, 07 Dec 2015 04:58:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
