@@ -4,8 +4,15 @@
         <description><![CDATA[ChurchPlanting]]></description>
         <link>https://thegrid.ai/churchplanting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Dec 2015 04:59:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Dec 2015 05:03:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/churchplanting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/723b7d7a-8af3-46e2-a106-5045a0c5bd51.jpg">]]></description>
+            <link>https://thegrid.ai/churchplanting/4b54dd87-e0ca-426e-9866-e78179cfb8d5/index.html</link>
+            <guid isPermaLink="false">4b54dd87-e0ca-426e-9866-e78179cfb8d5</guid>
+            <pubDate>Mon, 07 Dec 2015 05:03:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/93f714f7-9fb5-43e9-b564-02519a15283f.png">]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/churchplanting/bf66b8ad-e554-43d6-b554-7e68ce8c3e1d/index.html</link>
             <guid isPermaLink="false">bf66b8ad-e554-43d6-b554-7e68ce8c3e1d</guid>
             <pubDate>Mon, 07 Dec 2015 04:58:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/723b7d7a-8af3-46e2-a106-5045a0c5bd51.jpg">]]></description>
-            <link>https://thegrid.ai/churchplanting/4b54dd87-e0ca-426e-9866-e78179cfb8d5/index.html</link>
-            <guid isPermaLink="false">4b54dd87-e0ca-426e-9866-e78179cfb8d5</guid>
-            <pubDate>Mon, 07 Dec 2015 04:58:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
