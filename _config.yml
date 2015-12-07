@@ -1,6 +1,6 @@
 name: ChurchPlanting
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.90947
 typography_spectrum: 0.8667162396013737
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#1e2126'
-    - '#c09a87'
-    - '#605a3a'
-    - '#967661'
+    - '#f4fcf1'
+    - '#88dff3'
+    - '#242e32'
+    - '#eb657a'
+    - '#62746c'
   brandStrength: 0.6201243426185101
-  lightness: 0.6430280916392803
-  saturation: 0.125
+  lightness: 0.5625
+  saturation: 0.4375
   rhythmicContrast: 0.5
 purpose: []
