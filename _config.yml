@@ -1,6 +1,6 @@
 name: ChurchPlanting
 favicon: null
-layout_spectrum: 0.5253541448619217
+layout_spectrum: 1
 typography_spectrum: 0.8667162396013737
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#253237'
   brandStrength: 0.6201243426185101
   lightness: 0.6430280916392803
-  saturation: 0.08887650980614126
-  rhythmicContrast: 0.04941349406726658
+  saturation: 0.125
+  rhythmicContrast: 0.5
 purpose: []
