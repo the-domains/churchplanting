@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-11T06:17:03.798Z'
-dateModified: '2015-12-11T06:14:40.001Z'
+datePublished: '2015-12-11T06:17:13.949Z'
+dateModified: '2015-12-11T06:15:09.346Z'
 title: Contributor
 author: []
 authors: []
@@ -22,9 +22,9 @@ url: contributor/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46c0d584-c590-415b-9428-4c7ea3cd8f12.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b0dc849-efea-4b93-8a6d-6fbd42c27e77.png)
 
-Jimmy Toney has planted two successful churches. He has
-taught seminary students on planting churches and currently serves the UPCI as
-their director of North American Missions. He is both an entertaining and motivational
-minister.
+David K Bernard is the Superintendent of the United
+Pentecostal Church International and a passionate church planter. Not only did
+he start a very successful church in Austin, TX, he led that church in planting
+17 daughter works.
